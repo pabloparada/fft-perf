@@ -1,1 +1,0 @@
-gcc create_table.c -shared -o create_table.so -fPIC -L/home/pablo_parada/.asdf/installs/lua/5.2.0/lib -I/home/pablo_parada/.asdf/installs/lua/5.2.0/include  && mv create_table.so ~/.asdf/installs/lua/5.2.0/lib/lua/5.2/
