@@ -1,0 +1,14 @@
+{
+  "name": "fft-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fft.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fft-js": "0.0.12"
+  }
+}
